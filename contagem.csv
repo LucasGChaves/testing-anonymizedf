@@ -1,0 +1,3 @@
+;Unnamed: 0;frame_time;total_pacotes;total_pacotes_icmp;total_pacotes_udp;total_pacotes_tcp;maior_pacote;menor_pacote;soma_pacotes;total_ips_origem;total_ips_destino
+0;0;"0    Sep  6, 2018 06:43:20.739949000 -03
+Name: time, dtype: object";47707;8;0;47574;238;60;2872172;28;23690
